@@ -53,7 +53,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ref-linux'
+project = u'Linux Reference'
 copyright = u'2018, Nathaniel Hoefer'
 author = u'Nathaniel Hoefer'
 
